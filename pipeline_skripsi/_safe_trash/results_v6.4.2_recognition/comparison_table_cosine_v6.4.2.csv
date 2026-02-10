@@ -1,0 +1,9 @@
+Skenario,Metode,Akurasi (Top-1),Recall,F1-Score
+Jarak Dekat (< 7m),Dengan Restorasi,77.27%,0.77,0.80
+Jarak Menengah (7-12m),Dengan Restorasi,76.82%,0.77,0.77
+Jarak Jauh (>= 12m),Dengan Restorasi,45.66%,0.46,0.45
+Ketinggian 1.5m,Dengan Restorasi,67.45%,0.67,0.68
+Ketinggian 3m,Dengan Restorasi,78.30%,0.78,0.78
+Ketinggian 4m,Dengan Restorasi,70.97%,0.71,0.71
+Ketinggian 5m,Dengan Restorasi,46.92%,0.47,0.46
+Semua Data Uji,Dengan Restorasi,65.91%,0.66,0.67

@@ -1,0 +1,4 @@
+Model,Akurasi Original,Akurasi Restored,Peningkatan
+K-Nearest Neighbors (KNN),49.22%,63.20%,+28.4%
+Support Vector Machine (SVM),49.67%,60.56%,+21.9%
+Cosine Similarity,55.22%,66.28%,+20.0%

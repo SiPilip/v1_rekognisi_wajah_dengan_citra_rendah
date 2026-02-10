@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/.venv/Lib/site-packages/torch/include",
+        "${workspaceFolder}/.venv/Lib/site-packages/torch/include/torch/csrc/api/include",
+        "${workspaceFolder}/.venv/Lib/site-packages/torch/include/ATen",
+        "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/*/include",
+        "C:/Program Files (x86)/Microsoft Visual Studio/*/VC/Tools/MSVC/*/include",
+        "C:/Program Files (x86)/Windows Kits/10/Include/*/ucrt",
+        "C:/Program Files (x86)/Windows Kits/10/Include/*/um",
+        "C:/Program Files (x86)/Windows Kits/10/Include/*/shared"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE",
+        "__CUDA_INTERNAL_COMPILATION__",
+        "AT_CUDA_ENABLED"
+      ],
+      "windowsSdkVersion": "10.0.19041.0",
+      "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-msvc-x64"
+    }
+  ],
+  "version": 4
+}

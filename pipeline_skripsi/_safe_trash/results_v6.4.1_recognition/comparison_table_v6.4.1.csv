@@ -1,0 +1,25 @@
+Model,Skenario,Akurasi (Top-1),Recall,F1-Score
+KNN,Jarak Dekat (< 7m),77.27%,0.77,0.79
+KNN,Jarak Menengah (7-12m),70.68%,0.71,0.70
+KNN,Jarak Jauh (>= 12m),40.29%,0.40,0.39
+KNN,Ketinggian 1.5m,64.81%,0.65,0.66
+KNN,Ketinggian 3m,67.45%,0.67,0.68
+KNN,Ketinggian 4m,66.86%,0.67,0.67
+KNN,Ketinggian 5m,48.97%,0.49,0.47
+KNN,Semua Data Uji,62.02%,0.62,0.63
+SVM,Jarak Dekat (< 7m),75.91%,0.76,0.78
+SVM,Jarak Menengah (7-12m),74.09%,0.74,0.73
+SVM,Jarak Jauh (>= 12m),40.50%,0.40,0.39
+SVM,Ketinggian 1.5m,63.93%,0.64,0.65
+SVM,Ketinggian 3m,71.55%,0.72,0.72
+SVM,Ketinggian 4m,68.33%,0.68,0.68
+SVM,Ketinggian 5m,47.21%,0.47,0.46
+SVM,Semua Data Uji,62.76%,0.63,0.63
+Cosine Similarity,Jarak Dekat (< 7m),77.27%,0.77,0.80
+Cosine Similarity,Jarak Menengah (7-12m),76.82%,0.77,0.77
+Cosine Similarity,Jarak Jauh (>= 12m),45.66%,0.46,0.45
+Cosine Similarity,Ketinggian 1.5m,67.45%,0.67,0.68
+Cosine Similarity,Ketinggian 3m,78.30%,0.78,0.78
+Cosine Similarity,Ketinggian 4m,70.97%,0.71,0.71
+Cosine Similarity,Ketinggian 5m,46.92%,0.47,0.46
+Cosine Similarity,Semua Data Uji,65.91%,0.66,0.67

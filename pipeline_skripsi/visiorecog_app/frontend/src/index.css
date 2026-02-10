@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #fefefe; /* zinc-950 */
+  font-family: "Inter", sans-serif;
+}
+
+/* Modern focus ring for keyboard users */
+:root {
+  --ring: 0 0% 100%;
+}
+
+.focus-visible:focus-visible {
+  outline: 2px solid hsl(var(--ring) / 0.6);
+  outline-offset: 2px;
+}

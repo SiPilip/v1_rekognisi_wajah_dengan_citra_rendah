@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+numpy<2.0
+opencv-python
+torch==1.10.1
+torchvision==0.11.2
+deepface
+gfpgan
+pyiqa
+scikit-learn
+pandas
+tf-keras

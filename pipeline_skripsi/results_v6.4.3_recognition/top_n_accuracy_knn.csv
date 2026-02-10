@@ -1,0 +1,17 @@
+Skenario,Kondisi,Top-1,Top-2,Top-3,Top-4,Top-5
+Jarak Dekat (< 7m),Original,84.10%,84.33%,84.33%,87.10%,90.78%
+Jarak Dekat (< 7m),Restored,77.27%,77.73%,78.18%,82.05%,86.14%
+Jarak Menengah (7-12m),Original,56.04%,57.18%,58.54%,64.46%,69.93%
+Jarak Menengah (7-12m),Restored,72.95%,74.09%,74.77%,79.77%,84.77%
+Jarak Jauh (>= 12m),Original,11.30%,19.46%,28.45%,37.24%,46.03%
+Jarak Jauh (>= 12m),Restored,41.53%,46.07%,52.27%,60.54%,66.94%
+Ketinggian 1.5m,Original,58.82%,61.76%,65.29%,70.59%,75.29%
+Ketinggian 1.5m,Restored,65.69%,67.74%,70.97%,75.95%,81.23%
+Ketinggian 3m,Original,57.23%,60.47%,64.31%,69.03%,73.16%
+Ketinggian 3m,Restored,70.38%,72.73%,75.37%,81.52%,83.87%
+Ketinggian 4m,Original,49.12%,52.35%,55.29%,60.88%,67.94%
+Ketinggian 4m,Restored,68.62%,70.67%,72.73%,76.25%,80.65%
+Ketinggian 5m,Original,31.33%,35.24%,39.46%,47.59%,56.02%
+Ketinggian 5m,Restored,48.09%,50.15%,52.49%,61.00%,69.79%
+Semua Data Uji,Original,49.22%,52.55%,56.18%,62.10%,68.17%
+Semua Data Uji,Restored,63.20%,65.32%,67.89%,73.68%,78.89%

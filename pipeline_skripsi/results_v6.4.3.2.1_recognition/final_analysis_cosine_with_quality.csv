@@ -1,0 +1,17 @@
+Skenario,Metode,Avg BRISQUE,Avg NIQE,Akurasi,F1-Score,Improvement
+Jarak Dekat (< 7m),Original,3.91,4.27,89.40%,89.69%,-
+,Restored,3.90,4.26,78.64%,81.32%,-12.04%
+Jarak Menengah (7-12m),Original,1.69,4.26,65.15%,67.54%,-
+,Restored,1.70,4.26,76.59%,76.92%,+17.56%
+Jarak Jauh (>= 12m),Original,3.78,4.09,15.06%,11.03%,-
+,Restored,3.69,4.09,45.66%,44.92%,+203.14%
+Ketinggian 1.5m,Original,8.81,4.53,62.35%,68.12%,-
+,Restored,8.81,4.53,69.21%,69.55%,+10.99%
+Ketinggian 3m,Original,4.54,4.41,63.72%,68.28%,-
+,Restored,4.46,4.41,77.13%,77.26%,+21.05%
+Ketinggian 4m,Original,0.19,4.09,54.71%,59.68%,-
+,Restored,0.21,4.09,72.14%,72.18%,+31.87%
+Ketinggian 5m,Original,-1.06,3.78,39.76%,42.13%,-
+,Restored,-1.02,3.77,46.63%,46.21%,+17.28%
+Semua Data Uji,Original,3.14,4.20,55.22%,60.86%,-
+,Restored,3.12,4.20,66.28%,66.92%,+20.02%

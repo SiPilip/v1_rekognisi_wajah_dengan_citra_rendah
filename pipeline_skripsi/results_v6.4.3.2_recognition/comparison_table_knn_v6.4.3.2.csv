@@ -1,0 +1,17 @@
+Skenario,Metode,Akurasi (Top-1),Presisi,Recall,F1-Score,Peningkatan Akurasi
+Jarak Dekat (< 7m),Tanpa Restorasi,84.10%,90.00%,83.97%,85.09%,-
+Jarak Dekat (< 7m),Dengan Restorasi,77.27%,89.61%,77.27%,79.91%,-8.12%
+Jarak Menengah (7-12m),Tanpa Restorasi,56.04%,80.11%,55.98%,59.73%,-
+Jarak Menengah (7-12m),Dengan Restorasi,72.95%,83.58%,72.95%,72.48%,+30.19%
+Jarak Jauh (>= 12m),Tanpa Restorasi,11.30%,39.05%,11.20%,5.48%,-
+Jarak Jauh (>= 12m),Dengan Restorasi,41.53%,53.19%,41.53%,39.57%,+267.61%
+Ketinggian 1.5m,Tanpa Restorasi,58.82%,87.95%,58.77%,65.67%,-
+Ketinggian 1.5m,Dengan Restorasi,65.69%,77.59%,65.69%,66.30%,+11.67%
+Ketinggian 3m,Tanpa Restorasi,57.23%,85.17%,57.15%,63.21%,-
+Ketinggian 3m,Dengan Restorasi,70.38%,79.57%,70.38%,70.91%,+22.99%
+Ketinggian 4m,Tanpa Restorasi,49.12%,83.05%,49.17%,54.75%,-
+Ketinggian 4m,Dengan Restorasi,68.62%,79.42%,68.62%,68.92%,+39.71%
+Ketinggian 5m,Tanpa Restorasi,31.33%,71.88%,30.86%,33.61%,-
+Ketinggian 5m,Dengan Restorasi,48.09%,67.01%,48.09%,48.17%,+53.53%
+Semua Data Uji,Tanpa Restorasi,49.22%,83.08%,49.12%,55.60%,-
+Semua Data Uji,Dengan Restorasi,63.20%,76.14%,63.20%,64.28%,+28.39%

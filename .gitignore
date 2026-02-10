@@ -6,6 +6,7 @@ weights
 results
 data
 *.jpg
+*.png
 *.pkl
 *.pdf
 */cache
